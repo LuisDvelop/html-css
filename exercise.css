@@ -1,0 +1,102 @@
+    .form{
+        display: block;
+    }
+    .question{
+        width: 200px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .google-pic{
+        width: 300px;
+        height: 200px;
+        display: block;
+    }
+    .google-search{
+    box-sizing: border-box;
+    width: 400px;
+    height: 40px;
+    border: none;
+    padding: 8px 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    display: block;
+    margin-bottom: 20px;
+    }
+    .mail{
+        display: block;
+        border-width: 1px;
+        border-radius: 6px;
+        width: 300px;
+        border: solid gray 1px;
+        padding-left: 8px;
+        font-size: 18px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    input{
+        margin-bottom: 8px;
+    }
+    .name{
+        width: 142px;
+        font-size: 18px;
+        border-radius: 6px;
+        border: solid 1px grey;
+        padding-left: 8px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+    }
+    .sign-in{
+        display: block;
+        border-width: 1px;
+        border-radius: 6px;
+        width: 312px;
+        border: none;
+        font-size: 18px;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: rgb(34, 115, 255);
+        color: white;
+    }
+    .red-square{
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        display: inline-block;
+    }
+    .green-circle{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        border-radius: 100px;
+        display: inline-block;
+    }
+    .satisfied{
+        width: 200px;
+        border: solid 1px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+    }
+
+    .yt{
+        background-color: rgba(34, 33, 33, 0.982);
+        font-family: Arial, Helvetica, sans-serif;
+        width: 420px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .yt-text1{
+        color: white;
+        font-size: 25px;
+        font-weight: bold;
+        padding-bottom: 2px;
+    }
+    .yt-text2{
+        color: rgba(149, 148, 148, 0.982);
+        font-size: 20px;
+
+
+    }
